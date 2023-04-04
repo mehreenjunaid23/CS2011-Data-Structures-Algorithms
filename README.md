@@ -23,4 +23,4 @@ The repository contains the following files and directories:
 <br>lecture2 : Lecture notes and examples on algorithms and analysis.
 <br>linked_list : An implementation of a singly linked list data structure.
 <br>selection_sort : An implementation of selection sort algorithm.
-Each file or directory contains the source code and documentation for the corresponding data structure or algorithm.
+<br><br>Each file or directory contains the source code and documentation for the corresponding data structure or algorithm.
