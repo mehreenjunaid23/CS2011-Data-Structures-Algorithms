@@ -2,7 +2,8 @@
 This repository contains coursework for the "Data Structures and Algorithms" course (CS20111) offered in the Fall 2022 semester at Effat University.
 
 # Course Overview
-This course covers the design, implementation, and analysis of fundamental data structures and algorithms. Topics include:
+This course covers the design, implementation, and analysis of fundamental data structures and algorithms. 
+Topics include:
 
 Binary search
 Linked lists (singly linked and doubly linked)
