@@ -3,7 +3,7 @@ This repository contains coursework for the "Data Structures and Algorithms" cou
 
 # Course Overview
 This course covers the design, implementation, and analysis of fundamental data structures and algorithms. 
-Topics include:
+<br>Topics include:
 
 Binary search
 Linked lists (singly linked and doubly linked)
